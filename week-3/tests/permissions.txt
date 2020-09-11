@@ -1,0 +1,3 @@
+some text to test during discussion
+with permissions not allowing user to
+cat the text out to STDOUT
